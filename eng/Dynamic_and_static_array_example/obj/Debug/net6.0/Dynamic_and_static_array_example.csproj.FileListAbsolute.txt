@@ -1,0 +1,15 @@
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\bin\Debug\net6.0\Dynamic_and_static_array_example.exe
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\bin\Debug\net6.0\Dynamic_and_static_array_example.deps.json
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\bin\Debug\net6.0\Dynamic_and_static_array_example.runtimeconfig.json
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\bin\Debug\net6.0\Dynamic_and_static_array_example.dll
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\bin\Debug\net6.0\ref\Dynamic_and_static_array_example.dll
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\bin\Debug\net6.0\Dynamic_and_static_array_example.pdb
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.csproj.AssemblyReference.cache
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.AssemblyInfoInputs.cache
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.AssemblyInfo.cs
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.csproj.CoreCompileInputs.cache
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.dll
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\ref\Dynamic_and_static_array_example.dll
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.pdb
+C:\Users\mysenol\Desktop\Dynamic_and_static_array_example\obj\Debug\net6.0\Dynamic_and_static_array_example.genruntimeconfig.cache
